@@ -1,3 +1,4 @@
+<!-- Level 1: Simple bio and stats -->
 <p align="center">
   <img src="https://i.pinimg.com/736x/68/d5/8f/68d58f9f291847a757fb7e456cffe6e6.jpg" alt="Header Image" />
 </p>
